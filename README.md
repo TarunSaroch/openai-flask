@@ -99,3 +99,4 @@ the ```var data = JSON.stringify({"prompt": prompt});``` creates a JSON object w
  
  Please inform me, if any of the above explanation of content is wrong or not valid.
  Reach me at : tsaroch@proton.me
+ 😉
